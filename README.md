@@ -1,2 +1,3 @@
 # SpamMailPredictor-LogisticRegression
 A machine learning project that aims to accurately predict and classify emails as either spam or legitimate using the Logistic Regression algorithm. This repository provides an implementation of a spam mail predictor built on the principles of logistic regression.
+With the increasing volume of unsolicited and unwanted emails, spam filtering has become a critical task in ensuring the efficiency and security of email communication. This project offers a practical solution by leveraging the power of machine learning to automatically identify and flag potential spam emails.
